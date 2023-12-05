@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcs_2_maps_wiki=self.webpackChunkcs_2_maps_wiki||[]).push([[6865],{5356:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/cs2-maps-wiki/blog/tags/docusaurus","allTagsPath":"/cs2-maps-wiki/blog/tags","count":4,"unlisted":false}')}}]);
