@@ -2,6 +2,7 @@
   "label": "QGIS tutorials",
   "position": 3,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "description" : "A collection of tutorials for specific QGIS features and their applications for Cities: Skyliens II"
   }
 }

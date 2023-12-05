@@ -22,7 +22,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'shankscs2', // Usually your GitHub org/user name.
   projectName: 'cs2-maps-wiki', // Usually your repo name.
-
+  trailingSlash : false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
