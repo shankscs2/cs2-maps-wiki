@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcs_2_maps_wiki=self.webpackChunkcs_2_maps_wiki||[]).push([[9661],{1892:(s,e,r)=>{r.r(e),r.d(e,{default:()=>p});r(7294);var a=r(512),c=r(1944),u=r(5281),i=r(8790),k=r(6040),n=r(5893);function p(s){return(0,n.jsx)(c.FG,{className:(0,a.Z)(u.k.wrapper.docsPages),children:(0,n.jsx)(k.Z,{children:(0,i.H)(s.route.routes)})})}}}]);
