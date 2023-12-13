@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcs_2_maps_wiki=self.webpackChunkcs_2_maps_wiki||[]).push([[124],{9e3:s=>{s.exports=JSON.parse('{"label":"facebook","permalink":"/cs2-maps-wiki/blog/tags/facebook","allTagsPath":"/cs2-maps-wiki/blog/tags","count":1,"unlisted":false}')}}]);

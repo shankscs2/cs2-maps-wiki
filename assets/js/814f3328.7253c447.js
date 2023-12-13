@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcs_2_maps_wiki=self.webpackChunkcs_2_maps_wiki||[]).push([[535],{5641:s=>{s.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Why a wiki","permalink":"/cs2-maps-wiki/blog/why-a-wiki","unlisted":false}]}')}}]);
