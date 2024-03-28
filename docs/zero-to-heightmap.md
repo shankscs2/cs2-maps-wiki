@@ -324,7 +324,7 @@ Additional command-line parameters explanation:
 #### Sample if DEM does not have sufficient minimum elevation
 
 ```cmd
-scale -100 3996 0 65535 -outsize 4096 4096 -r cubic
+-scale -100 3996 0 65535 -outsize 4096 4096 -r cubic
 ```
 
 ## Creating an overlay
